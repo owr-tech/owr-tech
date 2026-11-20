@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm OWR TECH</h1>
 <h3 align="center">Passionate about solving structural problems for African SMEs, building products that put frameworks in place to shape Africa's informal economy</h3>
 
-- 🔭 I'm currently working on **OWR CLEAN**
+- 🔭 I'm currently working on **OWR CLEAR**
+-   A digital solutions allowing Micro-enterprises and SMEs to optimise their operations efficiently,thus enhancing their competitiveness and profitability
+    It help them manage:
+    - accounting
+    - finances
+    - taxes 
+    - stocks
 
 - 👯 I'm looking to collaborate on **SME management solutions, financial inclusion and digital finance solutions**
 
