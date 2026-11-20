@@ -2,13 +2,15 @@
 <h3 align="center">Passionate about solving structural problems for African SMEs, building products that put frameworks in place to shape Africa's informal economy</h3>
 
 - 🔭 I'm currently working on **OWR CLEAR**
--   A digital solutions allowing Micro-enterprises and SMEs to optimise their operations efficiently,thus enhancing their competitiveness and profitability
+-   A digital solutions allowing Micro-enterprises and SMEs to optimise their operations efficiently, thus enhancing their    competitiveness and profitability.
     It help them manage:
     - accounting
     - finances
     - taxes 
     - stocks
-
+The solutions make use of AI for vocal transcription and extraction of their business information and saving those data in order to     have an accurate financial view of their business.
+  The use of AI helps prevent errors caused by inadequate data, makes predictions, and provides recommendations to better guide          operational decisions and increase profitability.
+  
 - 👯 I'm looking to collaborate on **SME management solutions, financial inclusion and digital finance solutions**
 
 - 💬 Ask me about **Java/Spring Boot, Python/FastAPI, PHP/Laravel, JavaScript/React**
